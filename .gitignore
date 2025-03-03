@@ -1,0 +1,10 @@
+.vscode/
+.cache/
+build/
+include/
+data/buffer/
+**/.DS_STORE
+
+save.data
+Journal.txt
+compile_commands.json
