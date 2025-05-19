@@ -10,21 +10,18 @@ A 2D Game engine using C++, and SFML.
 4. Improved map maker
 5. Sound effects and music
 
-### Long term
-1. After finishing engine, plan to develop Pokemon inspired game
-
 ## Installation
 
 1. Clone the repository:
-    git clone https://github.com/ozhang05/pokemon.git
-    cd pokemon
+    git clone https://github.com/ozhang05/game.git
+    cd game
 2. Build project
     mkdir build
     cd build
     cmake ..
-    make pokemon
+    make game
 3. Running project
-    ./pokemon
+    ./game
 
 
 ## Useage
